@@ -56,37 +56,55 @@ class Ayush:
 
 <div align="center">
 
-**Languages**
+## 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="60"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="60"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="60"/>
+</p>
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🎨 Frontend
 
-**Backend & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="60"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="60"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="60"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="60"/>
+</p>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-**AI / ML**
+## ⚙️ Backend & Database
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="60"/>
+</p>
 
-**Tools & Workflow**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🤖 AI / ML
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="60"/>
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="60"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="60"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="60"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="60"/>
+</p>
 
 </div>
 
@@ -133,8 +151,8 @@ class Ayush:
 
 <br/><br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=ayushh-anand&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ayushh-anand?style=for-the-badge&color=38B2AC&labelColor=0d1117&label=FOLLOWERS)
+![Visitors](https://komarev.com/ghpvc/?username=Aayushh-Anand&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Aayushh-Anand?style=for-the-badge&color=38B2AC&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
