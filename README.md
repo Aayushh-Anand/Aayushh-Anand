@@ -110,42 +110,6 @@ class Ayush:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ayushh-anand">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ayushh-anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushh-anand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayushh-anand&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=f59e0b&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushh-anand&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=f59e0b&area=true&area_color=A78BFA" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushh-anand&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
 
 ## 🔗 Let's Connect & Build Together
 
