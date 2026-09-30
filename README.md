@@ -163,11 +163,11 @@ class Ayush:
   <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://ayushanand.vercel.app" target="_blank">
+<a href="https://ayush-portfolio-gules-kappa.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Aayushh-Anand\&style=for-the-badge\&color=A78BFA\&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Aayushh-Anand?style=for-the-badge\&color=38B2AC\&labelColor=0d1117\&label=FOLLOWERS)
