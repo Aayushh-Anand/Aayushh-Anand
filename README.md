@@ -188,13 +188,3 @@ class Ayush:
 
 </div>
 ```
-
-### Maine kya update kiya
-
-* **Portfolio section** add kiya with `🚀 Visit My Portfolio` button.
-* Existing **Portfolio button** ko `https://ayushanand.vercel.app` se connect kiya.
-* Portfolio URL ko separately bhi display kiya.
-* Baaki LinkedIn, Instagram, X, Tech Stack, AI/ML, DSA etc. **same rakhe hain**.
-* Portfolio ko `Let's Connect & Build Together` section mein bhi properly link kar diya hai.
-
-**Note:** Maine tumhare portfolio URL ko open karke verify karne ki koshish ki, lekin deployment endpoint ne abhi `404 Not Found` return kiya. Isliye README mein tumhara provided URL hi use kiya hai.
