@@ -133,13 +133,13 @@ class Ayush:
 
 <div align="center">
 
-<a href="https://ayushanand.vercel.app" target="_blank">
+<a href="https://ayush-portfolio-gules-kappa.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://ayushanand.vercel.app" target="_blank">
+<a href="https://ayush-portfolio-gules-kappa.vercel.app/" target="_blank">
   <strong>ayushanand.vercel.app</strong>
 </a>
 
