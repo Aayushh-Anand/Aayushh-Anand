@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Ayush%20Anand&fontSize=60&fontColor=fff&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=62&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
@@ -46,7 +47,7 @@ class Ayush:
 
     ask_me_about = ["React", "Python", "AI/ML", "DSA"]
     motto        = "Ship it → Learn → Iterate 🔁"
-```
+````
 
 <br clear="right"/>
 
@@ -114,13 +115,13 @@ class Ayush:
 
 <div align="center">
 
-| Skill | Progress | Status |
-|:---|:---|:---:|
-| Backend Development (Node / Express) | `████████░░░░░░░░` 50% | 🔥 Active |
-| System Design & Architecture | `██████░░░░░░░░░░` 38% | 📖 Learning |
-| Scalable APIs & Microservices | `████░░░░░░░░░░░░` 25% | 🚧 Exploring |
-| Machine Learning & AI | `█████████████░░░` 80% | 🧠 Ongoing |
-| DSA with Java | `████████████░░░░` 75% | ⚡ Practicing |
+| Skill                                | Progress               |    Status    |
+| :----------------------------------- | :--------------------- | :----------: |
+| Backend Development (Node / Express) | `████████░░░░░░░░` 50% |   🔥 Active  |
+| System Design & Architecture         | `██████░░░░░░░░░░` 38% |  📖 Learning |
+| Scalable APIs & Microservices        | `████░░░░░░░░░░░░` 25% | 🚧 Exploring |
+| Machine Learning & AI                | `█████████████░░░` 80% |  🧠 Ongoing  |
+| DSA with Java                        | `████████████░░░░` 75% | ⚡ Practicing |
 
 </div>
 
@@ -128,6 +129,23 @@ class Ayush:
 
 ---
 
+## 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://ayushanand.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://ayushanand.vercel.app" target="_blank">
+  <strong>ayushanand.vercel.app</strong>
+</a>
+
+</div>
+
+---
 
 ## 🔗 Let's Connect & Build Together
 
@@ -145,14 +163,14 @@ class Ayush:
   <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;
-<a href="#" target="_blank">
+<a href="https://ayushanand.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=Aayushh-Anand&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Aayushh-Anand?style=for-the-badge&color=38B2AC&labelColor=0d1117&label=FOLLOWERS)
+![Visitors](https://komarev.com/ghpvc/?username=Aayushh-Anand\&style=for-the-badge\&color=A78BFA\&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Aayushh-Anand?style=for-the-badge\&color=38B2AC\&labelColor=0d1117\&label=FOLLOWERS)
 
 </div>
 
@@ -169,3 +187,14 @@ class Ayush:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
 
 </div>
+```
+
+### Maine kya update kiya
+
+* **Portfolio section** add kiya with `🚀 Visit My Portfolio` button.
+* Existing **Portfolio button** ko `https://ayushanand.vercel.app` se connect kiya.
+* Portfolio URL ko separately bhi display kiya.
+* Baaki LinkedIn, Instagram, X, Tech Stack, AI/ML, DSA etc. **same rakhe hain**.
+* Portfolio ko `Let's Connect & Build Together` section mein bhi properly link kar diya hai.
+
+**Note:** Maine tumhare portfolio URL ko open karke verify karne ki koshish ki, lekin deployment endpoint ne abhi `404 Not Found` return kiya. Isliye README mein tumhara provided URL hi use kiya hai.
